@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "御伽",
+  "base_artist": "Ivy to Fraudulent Game",
+  "createdAt": "2026-01-07T00:14:54.250167Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "御伽 (Otogi)",
+      "artist": "Dir en grey",
+      "has_synced": true,
+      "path": "select/01_御伽_(Otogi)_Dir_en_grey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "御伽",
+      "artist": "DIR EN GREY",
+      "has_synced": true,
+      "path": "select/02_御伽_DIR_EN_GREY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "御伽",
+      "artist": "Ivy to Fraudulent Game",
+      "has_synced": false,
+      "path": "select/pl_01_御伽_Ivy_to_Fraudulent_Game.txt"
+    }
+  ]
+}
